@@ -1,3 +1,4 @@
+`#000000`
 # Reading Notes
 <sub>Observations and questions throughout the Code Fellows software development course.</sub>
 
