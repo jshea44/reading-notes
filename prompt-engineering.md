@@ -6,5 +6,6 @@ On the other hand, randomness in nature refers to events or phenomena that occur
 The fundamental difference between a PRNG and randomness in nature lies in their underlying mechanisms and sources. PRNGs are designed to produce a deterministic sequence of numbers based on an algorithm, while randomness in nature emerges from the complexity and unpredictability of physical or biological processes. In other words, PRNGs simulate randomness through mathematical calculations, whereas natural randomness is a genuine property of certain phenomena.
 
 PRNGs have practical applications in various fields, such as computer simulations, cryptography, and gaming, where it may be sufficient to have a sequence of numbers that "looks" random for most purposes. However, they are not truly random and may exhibit patterns or biases if analyzed with the right techniques. In contrast, natural randomness is considered true randomness as it arises from the inherent complexity and inherent randomness of the natural world.
-##Attributions
+
+## Attributions
 This was taken from ChapGPT Open AI
