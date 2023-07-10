@@ -44,3 +44,4 @@ Foundational/beginning information for the inner workings of how the web works a
 1. The ability to store information such as variables as well as being able to interact with things on the webpage such as clicking a button.
 2. Using a `<script>` element for either internal or external Javascript.
    
+##Things I want to know more about
