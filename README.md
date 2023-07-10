@@ -8,6 +8,7 @@ Observations and questions throughout the Code Fellows software development cour
 
 ## Code 201 - *Foundations* of Software Development
 [class-01](./class-01.md)
+[class-02](./class-02.md)
 
 ## Code 301 - *Intermediate* Software Development
 
