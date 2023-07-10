@@ -21,3 +21,5 @@
   2. The use of an `else if` allows for more selection. For instance, having a program that gives a letter grade to a student based on their percentage. You don't want them to only have an A or an F. Having `else if` allows there to be B, C, and D.
   3. Three comparison operators are Greater than: `>`, Less than or equal to: `<=`, and Strict-non-equality: `!==`.
   4. The logical operator `&&` is AND, which means all conditionals must be true to evaluate to true. The logical operator `||` is OR, which means only one conditional needs to be true to evaluate to true.
+
+## Things I want to know more about
