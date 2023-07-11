@@ -23,3 +23,5 @@
   4. The result of the expression would be a string `10dog`. This is because when you try to concatinate with a string, Javascript converts the other values to strings as well. In the case of `(a + c)`, where `a = 10` and `c = false`, addition is performed here because there is a number. `false` is turned into a 0.
   5. A real world example could be in terms of clearance to access something. There would need to be a variable that indicates if someone can access something that others can not such as `hasClearance = true`. This could be something around security, or maybe something about whether or not someone can manipulate a page. So the condition could be something like `if (hasClearnace === true) {//give access} else {//do not give access}`
   6. A loop could be useful if you are trying to iterate over an array that contains a list of groceries and, in combination with an if statement, delete items that the user already has.
+
+## Things I want to know more about
