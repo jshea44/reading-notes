@@ -1,4 +1,5 @@
 # Readings: HTML Lists, Control Flow with JS, and the CSS Box Model
+This reading continues to iterate over the basics of html, css, and adds a bit of Javascript in the form of data structures, such as arrays, as well as data types.
 ## Ordered and Unordered lists.
   1. You should use an unordered list when you don't care about the order/having them numbered or having an indication of incrementing.
   2. There is an attribute called `type` that is used to change the bullet type, however this is deprecated so CSS should be used instead. 
