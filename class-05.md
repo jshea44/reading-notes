@@ -1,4 +1,5 @@
 # Readings: Images, Color, Text
+Understanding how CSS interacts with HTML is important when it comes to designing a webpage. Also understanding the aspects of images with `alt` text helps in regards to accessibility when it comes to screen readers.
 ## HTML Media
   1. A real world case of using the `alt` attribute is when your image doesn't load. Instead it displays the text used to describe it which is the `alt`.
   2. You can improve accessibility by using the `alt` attribute and making it descriptive but not too long. This is because visually impaired people might be using screen readers.
