@@ -15,6 +15,6 @@ This reading teaches the importance of domain models and how they help organize 
 
 ## Object Prototypes Using A Constructor
   1. 1. Inheritance - A staff sergeant and a senior airman do all the same things/jobs in the Air Force, however, a staff sergeant has additional duties that the senior airman does't have including writing EPR's.
-     2. prototype - 
+     2. prototype - We all wear the same uniform. We all salute our commanding officer. We all have access to dental and medical. These are properties that are shared between all members of the military in the same way the prototype contains shared properties and methods.
 
 ## Things I want to know more about
