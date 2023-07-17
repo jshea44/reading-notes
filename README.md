@@ -13,6 +13,7 @@ Observations and questions throughout the Code Fellows software development cour
 3. [class-04](./class-04.md)
 4. [class-05](./class-05.md)
 5. [class-06](./class-06.md)
+6. [class-07](./class-07.md)
 
 ## Code 301 - *Intermediate* Software Development
 
