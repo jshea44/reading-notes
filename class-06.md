@@ -9,5 +9,5 @@
 
 ## Introduction To The DOM
   1. DOM stands to Document Object Model. It creates a sort of copy of your HTML into an object or multiple objects that can then be manipulted by javascript.
-  2. f
+  2. The DOM is independent from javascript. It's a WebAPI that can work with javascript, but it can in fact use other languages such as python. Javascript uses the DOM to access the webpage and manipulated it. The document as a whole is apart of the DOM.
 ## Things I want to know more about
