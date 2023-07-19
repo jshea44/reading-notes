@@ -1,5 +1,5 @@
 # Readings: Forms and JS Events
-This section....
+HTML forms allow more choices and flexibility in our pages. Along with event listeners/handlers. They allow for a more user-curated experience and more interaction.
 ## HTML Forms
   1. Web forms allow the the user to interact with the web page, or they allow data to be collected from the user.
   2. Some things to keep in mind is to keep the form simple. Don't make it too big as it might begin to frustrate users. Only ask the user for things you absoutely need. Also take a step back form your data structures and test the form yourself. See what actually feels right when filling a form.
