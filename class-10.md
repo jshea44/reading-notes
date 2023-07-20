@@ -7,7 +7,7 @@ This reading helps us to understand error messages and what should be done for t
 
 ## The JavaScript Debugger.
 How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
-  1. Let's say you just wrote some code and you want to see.....
+  1. Let's say you just wrote some code and you want to see what happens step for step. You can use the debugger to see that. You can also set breakpoints which just means the code stops at certain times. You can also see a list of all the variables when they are made.
   2. The breakpoint is the place in your code you want to stop the execution.
   3. The call stack is the code that was run to get to the current line.
 
