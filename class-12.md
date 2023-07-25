@@ -7,10 +7,10 @@ This reading was focused a bit more on the visual side of things from creating 2
 
 ## Chart.js Documentation:
   1. Chart.js is an open-sourced charting library and provides a set of frequently used chart types, plugins, and customization options. First you have to install it, then it can be used by the following script tag:
-  <script src="path/to/chartjs/dist/chart.umd.js"></script>
+  `<script src="path/to/chartjs/dist/chart.umd.js"></script>
 <script>
     const myChart = new Chart(ctx, {...});
-</script>
+</script>`
   3. Three different chart types are: Area Chart, Line Chart, and Radar Chart.
 
 ## Easily Create Stunning Animated Charts with Chart.js
