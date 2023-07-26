@@ -5,7 +5,7 @@ This reading...
   2. A way transform could be used in a website is that there could be a button that when hovered over, it gets larger indicating that it can be pressed. Or if you wanted you could have something spin when you hover the mouse over.
 
 ## CSS Transitions & Animations
-  1. f
+  1. Whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted, appearance or behaviour could be altered.
   2. f
 
 ## 8 simple CSS3 transitions that will wow your users
