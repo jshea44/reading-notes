@@ -24,6 +24,7 @@ Observations and questions throughout the Code Fellows software development cour
 15. [Psychological Safety](./psychological-safety.md)
 
 ## Code 301 - *Intermediate* Software Development
+1. [class-01](./301-01.md)
 
 
 ## Code 401 - *Advanced* Software Development
