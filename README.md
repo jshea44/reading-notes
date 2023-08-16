@@ -27,6 +27,7 @@ Observations and questions throughout the Code Fellows software development cour
 1. [class-01](./301-01.md)
 2. [class-02](./301-02.md)
 3. [class-03](./301-03.md)
+4. [class-04](./301-04.md)
 
 
 ## Code 401 - *Advanced* Software Development
