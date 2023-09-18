@@ -1,13 +1,16 @@
 # Reading Notes
+
 Observations and questions throughout the Code Fellows software development course.
 
-> <sub>*“Do what you can, with what you have, where you are.” ―Theodore Roosevelt.*</sub>
+> <sub>_“Do what you can, with what you have, where you are.” ―Theodore Roosevelt._</sub>
 
 ## ~~Code 102 - Intro to Software Development~~
+
 <sub>skipped</sub>
 
-## Code 201 - *Foundations* of Software Development
-1. [class-01](./class-01.md)
+## Code 201 - _Foundations_ of Software Development
+
+1. [class-01](./201/class-01.md)
 2. [class-02](./class-02.md)
 3. [class-03](./class-03.md)
 4. [class-04](./class-04.md)
@@ -23,7 +26,8 @@ Observations and questions throughout the Code Fellows software development cour
 14. [class-14](./class-14.md)
 15. [Psychological Safety](./psychological-safety.md)
 
-## Code 301 - *Intermediate* Software Development
+## Code 301 - _Intermediate_ Software Development
+
 1. [class-01](./301-01.md)
 2. [class-02](./301-02.md)
 3. [class-03](./301-03.md)
@@ -40,5 +44,6 @@ Observations and questions throughout the Code Fellows software development cour
 14. [class-14](./301-14.md)
 15. [class-15](./301-15.md)
 
+## Code 401 - _Advanced_ Software Development
 
-## Code 401 - *Advanced* Software Development
+[Intro to SQL](./401/introToSql.md)
