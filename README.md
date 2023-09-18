@@ -47,3 +47,4 @@ Observations and questions throughout the Code Fellows software development cour
 ## Code 401 - _Advanced_ Software Development
 
 [Intro to SQL](./401/introToSql.md)
+[The Growth Mindset](./401/growthMindset.md)
