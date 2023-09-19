@@ -1,6 +1,6 @@
 # Readings: Node Ecosystem
 
-This reading...
+This reading is about Node and what it is used for. It's an important resource on the backend side of development.
 
 ## Review if helpful: An Introduction to Node.js on sitepoint.com
 
