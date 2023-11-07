@@ -71,6 +71,7 @@ Observations and questions throughout the Code Fellows software development cour
 23. [class-33](./401/class-33.md)
 24. [class-34](./401/class-34.md)
 25. [class-36](./401/class-36.md)
+26. [class-37](./401/class-37.md)
     [Intro to SQL](./401/introToSql.md)
     [The Growth Mindset](./401/growthMindset.md)
     [Data Structures and Algorithms](./401/dsa.md)
